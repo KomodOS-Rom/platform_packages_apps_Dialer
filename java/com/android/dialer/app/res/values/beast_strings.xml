@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--
-  ~ Copyright (C) 2016 The Android Open Source Project
+  ~ Copyright (C) 2019 BeastROMs
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
   ~ you may not use this file except in compliance with the License.
@@ -15,9 +15,8 @@
   ~ limitations under the License
   -->
 
-<resources>
-
-  <style name="DialpadContainer">
-    <item name="android:layout_marginTop">8dp</item>
-  </style>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string name="fullscreen_caller_photo_title">Fullscreen photo</string>
+  <string name="fullscreen_caller_photo_summary">Display full-screen photo in incoming and outgoing calls</string>
+  <string name="fullscreen_caller_photo_message">To use, you must restart the application</string>
 </resources>
