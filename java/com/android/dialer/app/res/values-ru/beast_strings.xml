@@ -29,4 +29,6 @@
   <string name="fullscreen_caller_photo_title">Фото на весь экран</string>
   <string name="fullscreen_caller_photo_summary">Отображать фото контакта на весь экран при входящем и исходящем вызовах</string>
   <string name="fullscreen_caller_photo_message">Для использования, перезагрузите приложение</string>
+  
+    <string name="auto_call_recording_title">Автозапись разговора</string>
 </resources>
